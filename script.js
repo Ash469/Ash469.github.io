@@ -45,7 +45,7 @@ const buttons = {
          </div>
          <h3>${item.date}</h3>
        </div>
-       <div class="headline" style="display: flex; justify-content: center;">
+       <div class="headline" style="display: flex; justify-content: center; color=green;">
          <h2>${item.headline}</h2>
        </div>
        <p>${item.content}</p>
